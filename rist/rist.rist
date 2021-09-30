@@ -1,1 +1,5 @@
+@+ os;
+os.system{"clear"};
+print{("hi": {"h","i"})};
+print{sys!.stdout};
 
