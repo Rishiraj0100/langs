@@ -1,5 +1,5 @@
 @+ os;
-os.system{"clear"};
+os::system{"clear"};
 print{("hi": {"h","i"})};
 print{sys!.stdout};
 
